@@ -14,10 +14,10 @@ function App() {
   }, []);
 
   return (
-    <>
+    <div className="box">
       <AddTodo />
       <TodoList/>
-    </>
+    </div>
   );
 }
 
