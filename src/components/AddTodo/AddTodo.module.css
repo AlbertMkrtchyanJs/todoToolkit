@@ -1,0 +1,27 @@
+.btn {
+    height: 35px;
+    width: 40px;
+    background-color:forestgreen ;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid forestgreen;
+}
+
+.inp {
+    height: 30px;
+    width: 300px;
+    border-radius: 6px;
+    border: 2px solid forestgreen;
+    padding: 0 10px;
+}
+
+.add {
+    width: 380px;
+    margin-bottom: 20px;
+    margin-top:50px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
